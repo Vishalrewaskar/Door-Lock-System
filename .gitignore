@@ -1,0 +1,73 @@
+##############################
+# Android Studio
+##############################
+
+*.iml
+.gradle/
+local.properties
+.idea/
+.DS_Store
+captures/
+.externalNativeBuild/
+.cxx/
+
+##############################
+# Build Files
+##############################
+
+build/
+**/build/
+out/
+bin/
+
+##############################
+# APK / AAB
+##############################
+
+*.apk
+*.aab
+
+##############################
+# Logs
+##############################
+
+*.log
+
+##############################
+# Firebase
+##############################
+
+app/google-services.json
+**/google-services.json
+
+##############################
+# Environment Files
+##############################
+
+.env
+.env.*
+*.env
+secret.properties
+apikey.properties
+keys.properties
+
+##############################
+# Keystore Files
+##############################
+
+*.jks
+*.keystore
+*.p12
+
+##############################
+# VS Code
+##############################
+
+.vscode/
+
+##############################
+# Mac / Windows
+##############################
+
+Thumbs.db
+Desktop.ini
